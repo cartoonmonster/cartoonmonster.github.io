@@ -2,7 +2,7 @@
 <html>
 <body>
 <title>Hey! Listen!</title>
-<h1>"Hey."</h1>
+<h1 style="color:MediumSeaGreen;>"Hey."</h1>
 <img src="batilda1.png" alt="batilda1">
 <hr>
 <a href="hey.html">"Hello!"</a>
