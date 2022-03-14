@@ -3,7 +3,8 @@
 <body>
 <title>Hey! Listen!</title>
 <h1 style="color:MediumSeaGreen;>"Hey."</h1>
-<img src="batilda1.png" alt="batilda1">
+<hr>
+<img src="batilda1.png" alt="batilda1.png">
 <hr>
 <a href="hey.html">"Hello!"</a>
 </body>
