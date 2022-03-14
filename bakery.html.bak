@@ -9,6 +9,11 @@
 <hr>
 <a href="blueberrypie.html">The blueberry pie :)</a>
 </body>
+<style>
+body {
+  background-image: url('pieshop.jpg');
+}
+</style>
 
 
 </html>
