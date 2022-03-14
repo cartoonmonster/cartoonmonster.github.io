@@ -2,7 +2,7 @@
 <html>
 <body>
 <title>Bakery</title>
-<h1 style="color:green;>"Wow... All these pies look amazing!! What pie do YOU want?"</h1>
+<h1 style="color:Mediumseagreen;>"Wow... All these pies look amazing!! What pie do YOU want?"</h1>
 <img src="Happybatilda.png" alt="Batilda" width="900" height="900">
 <hr>
 <a href="angrybatilda.html">The apple pie :)</a>
