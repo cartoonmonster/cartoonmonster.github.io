@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <title>Digital Media Art Portfolio</title>
 <hr>
-<a href="cartoonmonster.github.io/index.html">HTML Pages: Batilda's Adventure</a>
+<a href="index.html">HTML Pages: Batilda's Adventure</a>
 <hr>
-<a href="cartoonmonster.github.io/dressupgame">Dress-Up Game!</a>
+<a href="dressupgame">Dress-Up Game!</a>
 <hr>
 <a href="DIYPhotoshop">DIY Photoshop (Use keys 1, 2, 3, Q, W, T, G) </a>
 <hr>
 <a href="glitchart.html">Glitch Art</a>
 <hr>
-<a href="cartoonmonster.github.io/mememashup">Meme Mashup</a>
+<a href="ememashup">Meme Mashup</a>
 <body style="background-color:pink;">
 </html>
