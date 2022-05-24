@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<body style="background-color:pink;">
 <title>Digital Media Art Portfolio</title>
 <hr>
 <a href="cartoonmonster.github.io/index.html">HTML Pages: Batilda's Adventure</a>
@@ -11,4 +10,5 @@
 <a href="glitchart.html">Glitch Art</a>
 <hr>
 <a href="cartoonmonster.github.io/mememashup">Meme Mashup</a>
+<body style="background-color:pink;">
 </html>
