@@ -2,18 +2,18 @@
 <body style="background-color:pink;">
 <h1>Digital Media Art Portfolio</h1>
 <h2>HTML Page Adventure</h2>
-<p><a href="cartoonmonster.github.io/index.html">HTML Pages: Batilda's Adventure</a></p>
+<a href="cartoonmonster.github.io/index.html">HTML Pages: Batilda's Adventure</a>
 
 <h2>Dress-Up Game</h2>
-<p><a href="cartoonmonster.github.io/dressupgame">Dress-Up Game!</a></p>
+<a href="cartoonmonster.github.io/dressupgame">Dress-Up Game!</a>
 
 <h2>DIY Photoshop </h2>
-<p><a href="cartoonmonster.github.io/DIYPhotoshop">DIY Photoshop (Use keys 1, 2, 3, Q, W, T, G) </a></p>
+<a href="cartoonmonster.github.io/DIYPhotoshop">DIY Photoshop (Use keys 1, 2, 3, Q, W, T, G) </a>
 
 <h2>Glitch Art</h2>
-<p><a href="cartoonmonster.github.io/glitchart">Glitch Art</a></p>
+<a href="cartoonmonster.github.io/glitchart">Glitch Art</a>
 
 <h2>Meme Mashup</h2>
-<p><a href="cartoonmonster.github.io/mememashup">Meme Mashup</a></p>
+<a href="cartoonmonster.github.io/mememashup">Meme Mashup</a>
 
 </html>
